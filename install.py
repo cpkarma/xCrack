@@ -6,7 +6,8 @@ a = [
     "colorama",
     "beautifulsoup4",
     "paramiko",
-    "urllib3"
+    "urllib3",
+    "pyarmor"
 ]
 
 def b():
