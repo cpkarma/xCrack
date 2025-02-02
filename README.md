@@ -8,7 +8,7 @@
 
 **Tested On:** Python 3.10.4
 
-→ Run **install.py** first for installing required modules
+**Note:** Run → **install.py** first for installing required modules
 
 #
 
