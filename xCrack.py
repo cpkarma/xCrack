@@ -16,7 +16,7 @@ def clear_screen():
 
 def check_for_updates():
     update_url = "https://cpkarma.cc/updates.txt"
-    current_version = "2.0"
+    current_version = "2.1"
 
     try:
         response = requests.get(update_url, timeout=5)
